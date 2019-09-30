@@ -1870,6 +1870,7 @@
 - [awesome-dev-domains](https://github.com/hemanth/awesome-dev-domains) - List of awesome `.dev` domains.  
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.  
 - [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups  
+- [devhub](https://github.com/devhubapp/devhub) - GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop  
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.  
 - [awesome-now](https://github.com/hemanth/awesome-now) - Awesome list of `now.sh` deployments.  
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts  
@@ -2663,7 +2664,6 @@
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.  
 - [opticss](https://github.com/linkedin/opticss) - A CSS Optimizer  
 - [libreact](https://github.com/streamich/libreact) - Collection of useful React components  
-- [devhub](https://github.com/devhubapp/devhub) - GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop  
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.  
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots  
 - [palette](https://github.com/artsy/palette) - Artsy's design system  
